@@ -1,5 +1,5 @@
 import sys
-sys.path.append( '/home/ppanchal/.local/lib/python2.7/site-packages' )
+sys.path.append( '.............................' )
 # https://github.com/dewkul/tvDatafeed/blob/main/tvDatafeed/main.py
 # pip install websocket-client, pip install create_connection
 import datetime
