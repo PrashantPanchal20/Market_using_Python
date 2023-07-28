@@ -5,7 +5,7 @@
 # https://finance.yahoo.com/quote/RELIANCE.NS/history?p=RELIANCE.NS
 
 import sys
-sys.path.append( '/home/ppanchal/.local/lib/python2.7/site-packages' )
+sys.path.append( '..........................' )
 
 import yfinance as yf
 import pandas as pd
